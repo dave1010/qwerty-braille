@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    padding: 10px;
+    background: #eee;
+}
+
+#pressed, #chord, #character {
+    font-size: 200%;
+}
