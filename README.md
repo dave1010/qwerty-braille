@@ -10,7 +10,7 @@ The letters f, d, s, j, k, l are used to represent the 6 dots. You need a keyboa
 
 # Limitations
 
-Only single characters are implemented. QWerty Braille doesn't support Braille's other features, like contractions or multi-chord actions. that means you can't type numbers or use any shorthand. 
+Only single characters are implemented. Qwerty Braille doesn't support Braille's other features, like contractions or multi-chord actions. that means you can't type numbers or use any shorthand. 
 
 # Licence
 
